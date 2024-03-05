@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rethabile Diale
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rethabile Diale.
 
 Junior Web -Developer
 ---------------------
@@ -41,4 +41,4 @@ src="https://img.shields.io/github/followers/RethaD27?logo=github&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RethaD27/RethaD27/bcl-project2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RethaD27&repo=RethaD27/bcl-project2&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RethaD27/RethaD27/RETDIA521_BCL2401_GroupE_RethabileDiale_SDF09" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RethaD27&repo=RethaD27/RETDIA521_BCL2401_GroupE_RethabileDiale_SDF09&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RethaD27/bcl-project2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RethaD27&repo=bcl-project2&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RethaD27/RETDIA521_BCL2401_GroupE_RethabileDiale_SDF09" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RethaD27&repo=RETDIA521_BCL2401_GroupE_RethabileDiale_SDF09&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
