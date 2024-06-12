@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web -Developer
 ---------------------
 
-I started the journey of Software Engineering in Jan- 2024 and so far I've learned the following tech languages: HTML, CSS and JavaScript.
+I started the journey of Software Engineering in Jan- 2024 and so far I've learned the following tech languages: HTML, CSS, JavaScript, React & TypeScript.
 
 * 🌍  I'm based in Rustenburg, South Africa
 * ✉️  You can contact me at [rethadiale27@gmail.com](mailto:rethadiale27@gmail.com)
 * 🚀  I'm currently working on [Medimate: Medication taking reminder App](http://github.com/RethaD27/bcl-project2)
 * 🧠  I'm learning JavaScript, Python and React
 * 🤝  I'm open to collaborating on UX/UI Designs
-* ⚡  I am a long-distance runner
+* ⚡  I am a long-distance runner and also a Math tutor.
 
 <a href="https://www.github.com/RethaD27" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RethaD27?logo=github&style=for-the-badge&color=84cc16&labelColor=1c1917" /></a>
